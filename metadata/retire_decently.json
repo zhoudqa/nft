@@ -1,0 +1,15 @@
+{
+    "name": "Retire Decently",
+    "description": "A handcraft for father's retiring",
+    "image": "https://raw.githubusercontent.com/zhoudqa/nft/main/pics/retire_decently.jpg",
+    "attributes": [
+        {
+            "trait_type": "author",
+            "value": "kelsi chao"
+        },
+        {
+            "trait_type": "publisher",
+            "value": "turkeyzhou"
+        }
+    ]
+}

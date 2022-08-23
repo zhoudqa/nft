@@ -1,0 +1,15 @@
+{
+    "name": "People On The Road",
+    "description": "Young people on the road with happy smile",
+    "image": "https://raw.githubusercontent.com/zhoudqa/nft/main/pics/people_on_the_road.jpg",
+    "attributes": [
+        {
+            "trait_type": "author",
+            "value": "kelsi chao"
+        },
+        {
+            "trait_type": "publisher",
+            "value": "turkeyzhou"
+        }
+    ]
+}
